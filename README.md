@@ -10,10 +10,10 @@ Customer lifetime time value (CLTV) helps to answer below important questions ab
 
 #Below formula has been used to calculate the CLTV
 
-CLTV = ((Average Order Value x Purchase Frequency)/Churn Rate) x Profit margin.
-Purchase Frequency = Total transactions / Total customers
-Repeat Rate = (Number of customers who made more than 1 transaction)/Total number of customers
-Churn Rate = 1 - Repeat Rate
-Profit Margin = 5% of Money Spent
+1) CLTV = ((Average Order Value x Purchase Frequency)/Churn Rate) x Profit margin.
+2) Purchase Frequency = Total transactions / Total customers
+3) Repeat Rate = (Number of customers who made more than 1 transaction)/Total number of customers
+4) Churn Rate = 1 - Repeat Rate
+5) Profit Margin = 5% of Money Spent
 
 
